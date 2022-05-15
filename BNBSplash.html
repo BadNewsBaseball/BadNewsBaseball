@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create three unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+  height: 800px; /* Should be removed. Only for demonstration */
+}
+
+.left {
+  width: 20%;
+}
+
+.middle {
+  width: 60%;
+}
+
+.right{
+  width:20%;
+  }
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+<div class="row">
+  <div class="column left" style="background-color:#ccc;">
+  	<h1>Teams</h1>
+		<p><a href="atlanta.html">Atlanta</a><br>
+		<a href="boston.html">Boston</a><br>
+		<a href="chicago.html">Chicago</a><br>
+		<a href="detroit.html">Detroit</a><br>
+		<a href="losangeles.html">Los Angeles</a><br>
+		<a href="minnesota.html">Minnesota</a><br>
+		<a href="newyork.html">New York</a><br>
+		<a href="oakland.html">Oakland</a><br>
+		<a href="stlouis.html">St. Louis</a><br>
+		<a href="sanfrancisco.html">San Francisco</a><br>
+		<a href="texas.html">Texas</a><br>
+		<a href="toronto.html">Toronto</a><br>
+		</p>
+  </div>
+  <div class="column middle" style="background-color:#ddd;">
+    <img src="images/BNBMap.png" alt="Field" class="center" title="Bad News Baseball"/>
+  </div>
+  <div class="column right" style="background-color:#ccc;">
+    <h1>Seasons</h1>
+		<h4>CPU Season</h4>
+		<p><a href="cpuSeason1.html">Season 1</a><br>
+		<a href="cpuSeason2.html">Season 2</a><br>
+		<a href="cpuSeason3.html">Season 3</a><br>
+  </div>
+</div>
+
+</body>
+</html>
