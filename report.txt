@@ -1,0 +1,2489 @@
+***All Time Standings***
+                   W     D    L     RF:RA     P162
+Atlanta           105    2   58   1212:1092   104
+Detroit            94    4   67   1168:1161   94
+Boston             94    1   70   1346:1261   93
+Minnesota          91    6   68   1108:1106   92
+New York           91    0   74   1026:1026   89
+Oakland            87    2   76   1112:921    86
+Texas              85    2   78   1056:1074   84
+Los Angeles        75    0   90    976:1023   74
+Chicago            70    1   94   1110:1185   69
+Toronto            67    3   95    924:936    67
+San Francisco      65    1   99    943:1160   64
+St. Louis          54    2  109   1013:1049   54
+
+
+
+***Matchup Standings***
+Leader            W   D    L    Trailer
+New York         14   0    1    San Francisco   
+Detroit          13   0    2    St. Louis       
+Boston           13   0    2    Toronto         
+Atlanta          12   1    2    St. Louis       
+Atlanta          12   0    3    Chicago         
+Boston           12   0    3    Chicago         
+Minnesota        11   1    3    Toronto         
+Detroit          11   0    4    Los Angeles     
+Boston           11   0    4    St. Louis       
+New York         11   0    4    St. Louis       
+Texas            11   0    4    Los Angeles     
+Texas            11   0    4    St. Louis       
+Toronto          11   0    4    St. Louis       
+Atlanta          10   1    4    Toronto         
+Atlanta          10   0    5    San Francisco   
+Detroit          9    2    4    Minnesota       
+Detroit          10   0    5    Chicago         
+Detroit          10   0    5    Toronto         
+Detroit          10   0    5    San Francisco   
+Minnesota        10   0    5    Boston          
+New York         10   0    5    Texas           
+Los Angeles      10   0    5    New York        
+Texas            10   0    5    San Francisco   
+Toronto          10   0    5    Los Angeles     
+Los Angeles      10   0    5    San Francisco   
+San Francisco    10   0    5    Toronto         
+Minnesota        9    1    5    San Francisco   
+Minnesota        9    1    5    St. Louis       
+Oakland          9    1    5    Texas           
+Atlanta          9    0    6    Detroit         
+Atlanta          9    0    6    Minnesota       
+Atlanta          9    0    6    New York        
+Atlanta          9    0    6    Texas           
+Atlanta          9    0    6    Los Angeles     
+New York         9    0    6    Detroit         
+Boston           9    0    6    New York        
+Minnesota        9    0    6    New York        
+Minnesota        9    0    6    Oakland         
+Minnesota        9    0    6    Chicago         
+New York         9    0    6    Toronto         
+Oakland          9    0    6    St. Louis       
+St. Louis        9    0    6    Los Angeles     
+Chicago          9    0    6    San Francisco   
+Boston           8    1    6    Detroit         
+Oakland          8    1    6    Detroit         
+Chicago          8    1    6    Toronto         
+Atlanta          8    0    7    Boston          
+Atlanta          8    0    7    Oakland         
+Texas            8    0    7    Detroit         
+Oakland          8    0    7    Boston          
+Boston           8    0    7    Texas           
+Los Angeles      8    0    7    Boston          
+San Francisco    8    0    7    Boston          
+Minnesota        8    0    7    Los Angeles     
+Oakland          8    0    7    New York        
+New York         8    0    7    Chicago         
+Oakland          8    0    7    Los Angeles     
+Oakland          8    0    7    Chicago         
+Oakland          8    0    7    Toronto         
+Oakland          8    0    7    San Francisco   
+Texas            8    0    7    Chicago         
+Toronto          8    0    7    Texas           
+Los Angeles      8    0    7    Chicago         
+Chicago          8    0    7    St. Louis       
+San Francisco    8    0    7    St. Louis       
+Minnesota        7    1    7    Texas           
+
+
+
+***Series History***
+
+***Atlanta         ***
+
+Atlanta vs. Detroit
+All time series is 9-6-0
+Atlanta             8:7    Detroit          
+Atlanta            13:9    Detroit          
+Detroit             7:3    Atlanta          
+Atlanta             9:5    Detroit          
+Atlanta            11:6    Detroit          
+Detroit             7:3    Atlanta          
+Atlanta             6:0    Detroit          
+Atlanta            11:5    Detroit          
+Atlanta             5:4    Detroit          
+Atlanta            15:6    Detroit          
+Atlanta             9:5    Detroit          
+Detroit             9:3    Atlanta          
+Detroit             6:2    Atlanta          
+Detroit             7:3    Atlanta          
+Detroit             6:5    Atlanta          
+
+Atlanta vs. Boston
+All time series is 8-7-0
+Atlanta            16:10   Boston           
+Atlanta             8:7    Boston           
+Boston              8:7    Atlanta          
+Atlanta             8:3    Boston           
+Atlanta            13:3    Boston           
+Boston              8:7    Atlanta          
+Atlanta            11:1    Boston           
+Boston              6:2    Atlanta          
+Boston             10:7    Atlanta          
+Atlanta             9:2    Boston           
+Boston             10:5    Atlanta          
+Atlanta            17:15   Boston           
+Boston             12:11   Atlanta          
+Boston              9:7    Atlanta          
+Atlanta            17:9    Boston           
+
+Atlanta vs. Minnesota
+All time series is 9-6-0
+Atlanta             9:4    Minnesota        
+Minnesota          11:4    Atlanta          
+Atlanta             6:4    Minnesota        
+Atlanta             6:3    Minnesota        
+Atlanta             9:6    Minnesota        
+Minnesota           4:0    Atlanta          
+Minnesota           5:2    Atlanta          
+Minnesota          10:9    Atlanta          
+Atlanta             7:4    Minnesota        
+Atlanta             9:8    Minnesota        
+Atlanta            13:12   Minnesota        
+Minnesota           4:1    Atlanta          
+Minnesota           7:6    Atlanta          
+Atlanta             9:5    Minnesota        
+Atlanta            12:11   Minnesota        
+
+Atlanta vs. New York
+All time series is 9-6-0
+New York            7:1    Atlanta          
+Atlanta             5:2    New York         
+New York            4:3    Atlanta          
+Atlanta             5:4    New York         
+New York            6:5    Atlanta          
+New York           10:6    Atlanta          
+Atlanta            16:5    New York         
+New York           11:8    Atlanta          
+Atlanta             6:3    New York         
+Atlanta            10:5    New York         
+Atlanta             6:3    New York         
+New York            6:4    Atlanta          
+Atlanta             5:3    New York         
+Atlanta             9:8    New York         
+Atlanta             7:5    New York         
+
+Atlanta vs. Oakland
+All time series is 8-7-0
+Oakland             9:7    Atlanta          
+Atlanta             5:3    Oakland          
+Oakland            12:4    Atlanta          
+Oakland             6:3    Atlanta          
+Atlanta             3:1    Oakland          
+Oakland            10:5    Atlanta          
+Atlanta             9:5    Oakland          
+Oakland             7:5    Atlanta          
+Atlanta             5:4    Oakland          
+Atlanta             7:3    Oakland          
+Atlanta             5:4    Oakland          
+Atlanta             9:6    Oakland          
+Atlanta            10:0    Oakland          
+Oakland            10:7    Atlanta          
+Oakland            17:16   Atlanta          
+
+Atlanta vs. Texas
+All time series is 9-6-0
+Texas               8:6    Atlanta          
+Texas               9:4    Atlanta          
+Texas               6:4    Atlanta          
+Atlanta             6:5    Texas            
+Atlanta            10:7    Texas            
+Atlanta             8:6    Texas            
+Texas              11:1    Atlanta          
+Atlanta             7:3    Texas            
+Atlanta             9:3    Texas            
+Atlanta             7:5    Texas            
+Atlanta             7:6    Texas            
+Texas               5:1    Atlanta          
+Texas               7:5    Atlanta          
+Atlanta            17:9    Texas            
+Atlanta            11:0    Texas            
+
+Atlanta vs. Los Angeles
+All time series is 9-6-0
+Atlanta             3:2    Los Angeles      
+Los Angeles         8:5    Atlanta          
+Atlanta             8:3    Los Angeles      
+Los Angeles         3:2    Atlanta          
+Los Angeles         2:1    Atlanta          
+Atlanta             8:2    Los Angeles      
+Los Angeles         9:4    Atlanta          
+Atlanta             4:2    Los Angeles      
+Los Angeles         7:5    Atlanta          
+Atlanta             8:7    Los Angeles      
+Atlanta            15:5    Los Angeles      
+Los Angeles         7:5    Atlanta          
+Atlanta             5:4    Los Angeles      
+Atlanta             9:7    Los Angeles      
+Atlanta            10:7    Los Angeles      
+
+Atlanta vs. Chicago
+All time series is 12-3-0
+Atlanta            10:4    Chicago          
+Chicago             7:6    Atlanta          
+Chicago             8:7    Atlanta          
+Atlanta             7:6    Chicago          
+Atlanta             8:7    Chicago          
+Atlanta             6:4    Chicago          
+Atlanta             8:5    Chicago          
+Atlanta             5:1    Chicago          
+Atlanta             7:6    Chicago          
+Atlanta            11:8    Chicago          
+Atlanta            16:15   Chicago          
+Atlanta             8:3    Chicago          
+Chicago            14:12   Atlanta          
+Atlanta             7:4    Chicago          
+Atlanta             8:6    Chicago          
+
+Atlanta vs. Toronto
+All time series is 10-4-1
+Toronto            12:9    Atlanta          
+Atlanta            10:4    Toronto          
+Atlanta             6:4    Toronto          
+Atlanta            12:0    Toronto          
+Atlanta             9:5    Toronto          
+Toronto             6:2    Atlanta          
+Atlanta             4:0    Toronto          
+Atlanta             8:6    Toronto          
+Atlanta            10:4    Toronto          
+Atlanta            10:0    Toronto          
+Toronto            11:11   Atlanta          *
+Toronto            11:9    Atlanta          
+Atlanta             6:0    Toronto          
+Toronto            10:5    Atlanta          
+Atlanta             5:2    Toronto          
+
+Atlanta vs. San Francisco
+All time series is 10-5-0
+San Francisco       8:7    Atlanta          
+Atlanta            16:2    San Francisco    
+Atlanta             7:0    San Francisco    
+Atlanta            10:8    San Francisco    
+Atlanta            10:4    San Francisco    
+Atlanta             8:2    San Francisco    
+Atlanta             7:4    San Francisco    
+San Francisco      10:9    Atlanta          
+Atlanta            16:13   San Francisco    
+Atlanta             3:2    San Francisco    
+San Francisco       6:5    Atlanta          
+San Francisco      11:1    Atlanta          
+Atlanta            11:7    San Francisco    
+San Francisco       8:2    Atlanta          
+Atlanta             4:1    San Francisco    
+
+Atlanta vs. St. Louis
+All time series is 12-2-1
+Atlanta            12:1    St. Louis        
+Atlanta             9:6    St. Louis        
+Atlanta             8:3    St. Louis        
+Atlanta             4:3    St. Louis        
+Atlanta             6:4    St. Louis        
+Atlanta             9:8    St. Louis        
+Atlanta            12:2    St. Louis        
+St. Louis           7:2    Atlanta          
+Atlanta             7:5    St. Louis        
+St. Louis           9:9    Atlanta          *
+Atlanta             9:8    St. Louis        
+Atlanta             5:4    St. Louis        
+Atlanta             8:6    St. Louis        
+St. Louis          13:3    Atlanta          
+Atlanta             7:6    St. Louis        
+
+***Detroit         ***
+
+Detroit vs. Atlanta
+All time series is 6-9-0
+Atlanta             8:7    Detroit          
+Atlanta            13:9    Detroit          
+Detroit             7:3    Atlanta          
+Atlanta             9:5    Detroit          
+Atlanta            11:6    Detroit          
+Detroit             7:3    Atlanta          
+Atlanta             6:0    Detroit          
+Atlanta            11:5    Detroit          
+Atlanta             5:4    Detroit          
+Atlanta            15:6    Detroit          
+Atlanta             9:5    Detroit          
+Detroit             9:3    Atlanta          
+Detroit             6:2    Atlanta          
+Detroit             7:3    Atlanta          
+Detroit             6:5    Atlanta          
+
+Detroit vs. Boston
+All time series is 6-8-1
+Boston             11:11   Detroit          *
+Boston              4:1    Detroit          
+Boston             14:12   Detroit          
+Detroit             5:4    Boston           
+Detroit            12:8    Boston           
+Detroit            10:9    Boston           
+Detroit             8:6    Boston           
+Detroit            12:11   Boston           
+Boston             12:7    Detroit          
+Boston             12:7    Detroit          
+Boston              9:8    Detroit          
+Boston              9:8    Detroit          
+Detroit             9:7    Boston           
+Boston              5:3    Detroit          
+Boston             11:8    Detroit          
+
+Detroit vs. Minnesota
+All time series is 9-4-2
+Minnesota          10:10   Detroit          *
+Minnesota          13:9    Detroit          
+Detroit             6:5    Minnesota        
+Detroit             6:5    Minnesota        
+Minnesota           7:1    Detroit          
+Detroit             8:5    Minnesota        
+Detroit            10:7    Minnesota        
+Detroit             9:6    Minnesota        
+Minnesota           8:2    Detroit          
+Detroit            12:1    Minnesota        
+Detroit            12:8    Minnesota        
+Detroit             9:5    Minnesota        
+Detroit             7:5    Minnesota        
+Minnesota           7:5    Detroit          
+Minnesota           3:3    Detroit          *
+
+Detroit vs. New York
+All time series is 6-9-0
+New York            6:4    Detroit          
+New York            9:8    Detroit          
+New York            5:4    Detroit          
+Detroit             6:5    New York         
+Detroit             5:3    New York         
+New York            8:3    Detroit          
+Detroit             7:6    New York         
+Detroit             6:4    New York         
+New York           11:10   Detroit          
+New York            5:4    Detroit          
+Detroit             6:2    New York         
+New York            8:2    Detroit          
+Detroit            15:13   New York         
+New York           12:11   Detroit          
+New York            8:6    Detroit          
+
+Detroit vs. Oakland
+All time series is 6-8-1
+Detroit            10:10   Oakland          *
+Oakland             6:2    Detroit          
+Oakland             6:5    Detroit          
+Oakland            10:3    Detroit          
+Oakland            12:10   Detroit          
+Detroit             7:6    Oakland          
+Oakland             7:6    Detroit          
+Oakland             3:2    Detroit          
+Detroit             7:3    Oakland          
+Detroit             7:5    Oakland          
+Detroit             7:5    Oakland          
+Detroit             9:7    Oakland          
+Detroit             4:3    Oakland          
+Oakland             9:8    Detroit          
+Oakland             7:6    Detroit          
+
+Detroit vs. Texas
+All time series is 7-8-0
+Texas               8:6    Detroit          
+Detroit             6:5    Texas            
+Detroit             6:4    Texas            
+Detroit             9:8    Texas            
+Texas              12:10   Detroit          
+Detroit             5:4    Texas            
+Texas              10:3    Detroit          
+Texas               7:5    Detroit          
+Detroit             4:1    Texas            
+Texas               9:8    Detroit          
+Detroit             7:6    Texas            
+Texas              11:9    Detroit          
+Texas               3:1    Detroit          
+Texas               6:4    Detroit          
+Detroit             7:3    Texas            
+
+Detroit vs. Los Angeles
+All time series is 11-4-0
+Detroit             8:5    Los Angeles      
+Detroit            11:9    Los Angeles      
+Detroit             7:4    Los Angeles      
+Detroit             2:1    Los Angeles      
+Los Angeles         9:2    Detroit          
+Detroit            16:2    Los Angeles      
+Detroit            11:4    Los Angeles      
+Detroit             4:2    Los Angeles      
+Detroit            12:2    Los Angeles      
+Detroit             6:4    Los Angeles      
+Los Angeles         7:4    Detroit          
+Detroit             8:5    Los Angeles      
+Los Angeles         7:6    Detroit          
+Los Angeles         9:4    Detroit          
+Detroit             7:5    Los Angeles      
+
+Detroit vs. Chicago
+All time series is 10-5-0
+Chicago             9:8    Detroit          
+Detroit             7:6    Chicago          
+Detroit            12:2    Chicago          
+Detroit             6:3    Chicago          
+Detroit             8:4    Chicago          
+Chicago            13:10   Detroit          
+Detroit             7:5    Chicago          
+Chicago             9:5    Detroit          
+Chicago             6:5    Detroit          
+Detroit             5:3    Chicago          
+Chicago            12:9    Detroit          
+Detroit             7:6    Chicago          
+Detroit            11:1    Chicago          
+Detroit             9:5    Chicago          
+Detroit            13:6    Chicago          
+
+Detroit vs. Toronto
+All time series is 10-5-0
+Detroit             5:1    Toronto          
+Detroit             9:4    Toronto          
+Detroit             6:3    Toronto          
+Toronto            12:4    Detroit          
+Detroit             4:2    Toronto          
+Toronto             6:0    Detroit          
+Detroit             7:5    Toronto          
+Toronto             4:2    Detroit          
+Detroit             7:4    Toronto          
+Toronto            11:5    Detroit          
+Detroit            16:8    Toronto          
+Detroit             7:4    Toronto          
+Toronto            10:5    Detroit          
+Detroit             6:3    Toronto          
+Detroit             8:5    Toronto          
+
+Detroit vs. San Francisco
+All time series is 10-5-0
+Detroit             4:3    San Francisco    
+San Francisco       8:7    Detroit          
+San Francisco       7:6    Detroit          
+Detroit            10:9    San Francisco    
+Detroit             6:2    San Francisco    
+Detroit             8:2    San Francisco    
+Detroit             5:3    San Francisco    
+Detroit            13:5    San Francisco    
+San Francisco       5:3    Detroit          
+Detroit             3:2    San Francisco    
+San Francisco      10:8    Detroit          
+Detroit            15:4    San Francisco    
+Detroit            13:9    San Francisco    
+San Francisco      10:7    Detroit          
+Detroit             6:2    San Francisco    
+
+Detroit vs. St. Louis
+All time series is 13-2-0
+Detroit            16:12   St. Louis        
+Detroit             5:1    St. Louis        
+Detroit            12:1    St. Louis        
+Detroit             9:7    St. Louis        
+Detroit             9:7    St. Louis        
+Detroit             2:1    St. Louis        
+Detroit            11:10   St. Louis        
+Detroit             8:7    St. Louis        
+Detroit             7:5    St. Louis        
+Detroit            10:0    St. Louis        
+Detroit             7:5    St. Louis        
+St. Louis           5:4    Detroit          
+St. Louis          13:12   Detroit          
+Detroit            12:11   St. Louis        
+Detroit            10:3    St. Louis        
+
+***Boston          ***
+
+Boston vs. Atlanta
+All time series is 7-8-0
+Atlanta            16:10   Boston           
+Atlanta             8:7    Boston           
+Boston              8:7    Atlanta          
+Atlanta             8:3    Boston           
+Atlanta            13:3    Boston           
+Boston              8:7    Atlanta          
+Atlanta            11:1    Boston           
+Boston              6:2    Atlanta          
+Boston             10:7    Atlanta          
+Atlanta             9:2    Boston           
+Boston             10:5    Atlanta          
+Atlanta            17:15   Boston           
+Boston             12:11   Atlanta          
+Boston              9:7    Atlanta          
+Atlanta            17:9    Boston           
+
+Boston vs. Detroit
+All time series is 8-6-1
+Boston             11:11   Detroit          *
+Boston              4:1    Detroit          
+Boston             14:12   Detroit          
+Detroit             5:4    Boston           
+Detroit            12:8    Boston           
+Detroit            10:9    Boston           
+Detroit             8:6    Boston           
+Detroit            12:11   Boston           
+Boston             12:7    Detroit          
+Boston             12:7    Detroit          
+Boston              9:8    Detroit          
+Boston              9:8    Detroit          
+Detroit             9:7    Boston           
+Boston              5:3    Detroit          
+Boston             11:8    Detroit          
+
+Boston vs. Minnesota
+All time series is 5-10-0
+Boston             14:13   Minnesota        
+Minnesota          10:3    Boston           
+Minnesota           7:5    Boston           
+Boston             16:11   Minnesota        
+Minnesota          11:1    Boston           
+Minnesota           9:3    Boston           
+Boston             10:0    Minnesota        
+Minnesota           8:7    Boston           
+Minnesota           8:7    Boston           
+Boston             12:4    Minnesota        
+Minnesota           8:3    Boston           
+Minnesota           4:3    Boston           
+Minnesota           6:4    Boston           
+Boston             14:5    Minnesota        
+Minnesota           5:3    Boston           
+
+Boston vs. New York
+All time series is 9-6-0
+Boston              4:3    New York         
+New York            7:5    Boston           
+New York            3:1    Boston           
+Boston              6:5    New York         
+Boston             16:9    New York         
+Boston             10:4    New York         
+New York            7:5    Boston           
+Boston              5:3    New York         
+Boston             12:4    New York         
+Boston             12:10   New York         
+New York           13:9    Boston           
+Boston              5:4    New York         
+New York           12:2    Boston           
+New York           10:6    Boston           
+Boston              7:6    New York         
+
+Boston vs. Oakland
+All time series is 7-8-0
+Boston              9:4    Oakland          
+Oakland            14:4    Boston           
+Oakland            16:6    Boston           
+Boston              9:5    Oakland          
+Oakland            13:8    Boston           
+Boston              7:3    Oakland          
+Oakland             7:6    Boston           
+Oakland             6:3    Boston           
+Boston             11:1    Oakland          
+Boston             10:3    Oakland          
+Oakland             8:7    Boston           
+Oakland            12:8    Boston           
+Boston              8:7    Oakland          
+Boston             16:10   Oakland          
+Oakland             7:3    Boston           
+
+Boston vs. Texas
+All time series is 8-7-0
+Boston              6:3    Texas            
+Texas               8:2    Boston           
+Boston             11:9    Texas            
+Texas               7:4    Boston           
+Texas               5:4    Boston           
+Texas              10:4    Boston           
+Texas              12:10   Boston           
+Boston              8:6    Texas            
+Texas               5:3    Boston           
+Texas               9:4    Boston           
+Boston             17:7    Texas            
+Boston              8:5    Texas            
+Boston              5:4    Texas            
+Boston             11:7    Texas            
+Boston              2:1    Texas            
+
+Boston vs. Los Angeles
+All time series is 7-8-0
+Boston             10:4    Los Angeles      
+Los Angeles         8:5    Boston           
+Los Angeles        18:10   Boston           
+Los Angeles         7:3    Boston           
+Los Angeles         9:5    Boston           
+Boston             10:9    Los Angeles      
+Boston              8:6    Los Angeles      
+Boston              8:5    Los Angeles      
+Boston              8:5    Los Angeles      
+Los Angeles         9:5    Boston           
+Boston             11:1    Los Angeles      
+Boston             11:1    Los Angeles      
+Los Angeles        15:12   Boston           
+Los Angeles         8:1    Boston           
+Los Angeles         9:7    Boston           
+
+Boston vs. Chicago
+All time series is 12-3-0
+Boston              8:6    Chicago          
+Boston             20:19   Chicago          
+Boston              8:5    Chicago          
+Boston             12:5    Chicago          
+Boston              6:5    Chicago          
+Boston             15:10   Chicago          
+Chicago            24:10   Boston           
+Boston              6:5    Chicago          
+Boston              7:6    Chicago          
+Chicago             9:8    Boston           
+Boston              9:6    Chicago          
+Boston             11:1    Chicago          
+Boston              7:4    Chicago          
+Chicago            10:8    Boston           
+Boston              9:7    Chicago          
+
+Boston vs. Toronto
+All time series is 13-2-0
+Boston             12:3    Toronto          
+Toronto             8:6    Boston           
+Boston             11:2    Toronto          
+Boston             11:7    Toronto          
+Boston             13:1    Toronto          
+Boston             16:11   Toronto          
+Boston              6:2    Toronto          
+Boston              8:6    Toronto          
+Boston              9:5    Toronto          
+Boston              6:5    Toronto          
+Boston             11:8    Toronto          
+Boston             14:1    Toronto          
+Toronto             9:7    Boston           
+Boston             17:14   Toronto          
+Boston              7:6    Toronto          
+
+Boston vs. San Francisco
+All time series is 7-8-0
+Boston              7:5    San Francisco    
+Boston             11:0    San Francisco    
+Boston              7:3    San Francisco    
+San Francisco       8:4    Boston           
+Boston             11:10   San Francisco    
+San Francisco      12:6    Boston           
+San Francisco       9:5    Boston           
+San Francisco      14:4    Boston           
+Boston             17:3    San Francisco    
+Boston              6:5    San Francisco    
+San Francisco       7:6    Boston           
+Boston             10:4    San Francisco    
+San Francisco       4:2    Boston           
+San Francisco       9:8    Boston           
+San Francisco      12:8    Boston           
+
+Boston vs. St. Louis
+All time series is 11-4-0
+Boston             12:0    St. Louis        
+Boston             15:7    St. Louis        
+Boston             13:5    St. Louis        
+Boston              8:6    St. Louis        
+Boston              7:5    St. Louis        
+Boston              7:6    St. Louis        
+St. Louis          13:8    Boston           
+Boston             13:4    St. Louis        
+Boston             14:4    St. Louis        
+Boston             13:3    St. Louis        
+Boston             14:9    St. Louis        
+St. Louis           9:6    Boston           
+Boston             15:6    St. Louis        
+St. Louis          12:1    Boston           
+St. Louis           8:7    Boston           
+
+***Minnesota       ***
+
+Minnesota vs. Atlanta
+All time series is 6-9-0
+Atlanta             9:4    Minnesota        
+Minnesota          11:4    Atlanta          
+Atlanta             6:4    Minnesota        
+Atlanta             6:3    Minnesota        
+Atlanta             9:6    Minnesota        
+Minnesota           4:0    Atlanta          
+Minnesota           5:2    Atlanta          
+Minnesota          10:9    Atlanta          
+Atlanta             7:4    Minnesota        
+Atlanta             9:8    Minnesota        
+Atlanta            13:12   Minnesota        
+Minnesota           4:1    Atlanta          
+Minnesota           7:6    Atlanta          
+Atlanta             9:5    Minnesota        
+Atlanta            12:11   Minnesota        
+
+Minnesota vs. Detroit
+All time series is 4-9-2
+Minnesota          10:10   Detroit          *
+Minnesota          13:9    Detroit          
+Detroit             6:5    Minnesota        
+Detroit             6:5    Minnesota        
+Minnesota           7:1    Detroit          
+Detroit             8:5    Minnesota        
+Detroit            10:7    Minnesota        
+Detroit             9:6    Minnesota        
+Minnesota           8:2    Detroit          
+Detroit            12:1    Minnesota        
+Detroit            12:8    Minnesota        
+Detroit             9:5    Minnesota        
+Detroit             7:5    Minnesota        
+Minnesota           7:5    Detroit          
+Minnesota           3:3    Detroit          *
+
+Minnesota vs. Boston
+All time series is 10-5-0
+Boston             14:13   Minnesota        
+Minnesota          10:3    Boston           
+Minnesota           7:5    Boston           
+Boston             16:11   Minnesota        
+Minnesota          11:1    Boston           
+Minnesota           9:3    Boston           
+Boston             10:0    Minnesota        
+Minnesota           8:7    Boston           
+Minnesota           8:7    Boston           
+Boston             12:4    Minnesota        
+Minnesota           8:3    Boston           
+Minnesota           4:3    Boston           
+Minnesota           6:4    Boston           
+Boston             14:5    Minnesota        
+Minnesota           5:3    Boston           
+
+Minnesota vs. New York
+All time series is 9-6-0
+New York            8:4    Minnesota        
+Minnesota           2:1    New York         
+New York           15:3    Minnesota        
+New York            2:0    Minnesota        
+Minnesota          13:8    New York         
+Minnesota           7:6    New York         
+New York            7:6    Minnesota        
+New York           10:8    Minnesota        
+Minnesota           6:4    New York         
+Minnesota           8:1    New York         
+Minnesota           7:6    New York         
+Minnesota           8:7    New York         
+Minnesota          12:1    New York         
+New York           11:3    Minnesota        
+Minnesota          11:8    New York         
+
+Minnesota vs. Oakland
+All time series is 9-6-0
+Oakland            10:7    Minnesota        
+Minnesota           5:0    Oakland          
+Minnesota           9:8    Oakland          
+Minnesota           8:3    Oakland          
+Oakland            10:7    Minnesota        
+Oakland             8:4    Minnesota        
+Minnesota          10:9    Oakland          
+Oakland             7:5    Minnesota        
+Minnesota          10:4    Oakland          
+Minnesota           6:3    Oakland          
+Oakland             8:5    Minnesota        
+Minnesota           8:5    Oakland          
+Minnesota           6:2    Oakland          
+Oakland             6:5    Minnesota        
+Minnesota           8:7    Oakland          
+
+Minnesota vs. Texas
+All time series is 7-7-1
+Minnesota           5:4    Texas            
+Texas               5:2    Minnesota        
+Minnesota          10:6    Texas            
+Texas               6:4    Minnesota        
+Minnesota           7:6    Texas            
+Minnesota           7:6    Texas            
+Texas               7:1    Minnesota        
+Texas               4:2    Minnesota        
+Texas              11:8    Minnesota        
+Texas              10:8    Minnesota        
+Minnesota           4:1    Texas            
+Minnesota           7:6    Texas            
+Minnesota          12:2    Texas            
+Minnesota          12:12   Texas            *
+Texas               5:3    Minnesota        
+
+Minnesota vs. Los Angeles
+All time series is 8-7-0
+Minnesota           8:3    Los Angeles      
+Los Angeles         6:4    Minnesota        
+Minnesota           6:5    Los Angeles      
+Los Angeles        16:12   Minnesota        
+Los Angeles         2:1    Minnesota        
+Los Angeles         5:3    Minnesota        
+Minnesota          10:7    Los Angeles      
+Minnesota           9:8    Los Angeles      
+Minnesota          11:1    Los Angeles      
+Los Angeles         7:5    Minnesota        
+Minnesota           3:1    Los Angeles      
+Los Angeles         8:7    Minnesota        
+Minnesota           8:7    Los Angeles      
+Minnesota           7:6    Los Angeles      
+Los Angeles        18:2    Minnesota        
+
+Minnesota vs. Chicago
+All time series is 9-6-0
+Chicago             8:6    Minnesota        
+Chicago            11:10   Minnesota        
+Minnesota           6:3    Chicago          
+Chicago             6:5    Minnesota        
+Minnesota          15:8    Chicago          
+Minnesota           8:3    Chicago          
+Chicago            12:9    Minnesota        
+Chicago            10:7    Minnesota        
+Minnesota          12:1    Chicago          
+Minnesota           8:2    Chicago          
+Minnesota           6:5    Chicago          
+Minnesota           5:3    Chicago          
+Chicago             6:5    Minnesota        
+Minnesota           5:3    Chicago          
+Minnesota           9:2    Chicago          
+
+Minnesota vs. Toronto
+All time series is 11-3-1
+Minnesota           6:5    Toronto          
+Toronto             4:4    Minnesota        *
+Minnesota           6:3    Toronto          
+Minnesota           4:1    Toronto          
+Minnesota           7:2    Toronto          
+Toronto             5:0    Minnesota        
+Minnesota          10:8    Toronto          
+Minnesota           4:2    Toronto          
+Minnesota           7:5    Toronto          
+Minnesota           4:0    Toronto          
+Toronto             7:5    Minnesota        
+Minnesota           8:6    Toronto          
+Minnesota          12:1    Toronto          
+Toronto             7:4    Minnesota        
+Minnesota           7:6    Toronto          
+
+Minnesota vs. San Francisco
+All time series is 9-5-1
+San Francisco       6:6    Minnesota        *
+Minnesota           9:1    San Francisco    
+Minnesota           4:1    San Francisco    
+San Francisco      11:3    Minnesota        
+Minnesota          10:0    San Francisco    
+Minnesota          10:8    San Francisco    
+San Francisco       8:7    Minnesota        
+Minnesota           7:3    San Francisco    
+San Francisco       4:2    Minnesota        
+Minnesota           8:7    San Francisco    
+San Francisco       7:6    Minnesota        
+Minnesota           6:5    San Francisco    
+San Francisco      11:9    Minnesota        
+Minnesota           7:1    San Francisco    
+Minnesota           7:0    San Francisco    
+
+Minnesota vs. St. Louis
+All time series is 9-5-1
+Minnesota           6:5    St. Louis        
+Minnesota           6:6    St. Louis        *
+Minnesota           7:6    St. Louis        
+St. Louis           9:1    Minnesota        
+St. Louis          10:7    Minnesota        
+Minnesota          10:9    St. Louis        
+Minnesota          13:12   St. Louis        
+Minnesota          11:6    St. Louis        
+Minnesota           6:1    St. Louis        
+Minnesota           7:6    St. Louis        
+St. Louis           9:8    Minnesota        
+Minnesota           7:2    St. Louis        
+Minnesota          15:3    St. Louis        
+St. Louis           9:3    Minnesota        
+St. Louis           7:5    Minnesota        
+
+***New York        ***
+
+New York vs. Atlanta
+All time series is 6-9-0
+New York            7:1    Atlanta          
+Atlanta             5:2    New York         
+New York            4:3    Atlanta          
+Atlanta             5:4    New York         
+New York            6:5    Atlanta          
+New York           10:6    Atlanta          
+Atlanta            16:5    New York         
+New York           11:8    Atlanta          
+Atlanta             6:3    New York         
+Atlanta            10:5    New York         
+Atlanta             6:3    New York         
+New York            6:4    Atlanta          
+Atlanta             5:3    New York         
+Atlanta             9:8    New York         
+Atlanta             7:5    New York         
+
+New York vs. Detroit
+All time series is 9-6-0
+New York            6:4    Detroit          
+New York            9:8    Detroit          
+New York            5:4    Detroit          
+Detroit             6:5    New York         
+Detroit             5:3    New York         
+New York            8:3    Detroit          
+Detroit             7:6    New York         
+Detroit             6:4    New York         
+New York           11:10   Detroit          
+New York            5:4    Detroit          
+Detroit             6:2    New York         
+New York            8:2    Detroit          
+Detroit            15:13   New York         
+New York           12:11   Detroit          
+New York            8:6    Detroit          
+
+New York vs. Boston
+All time series is 6-9-0
+Boston              4:3    New York         
+New York            7:5    Boston           
+New York            3:1    Boston           
+Boston              6:5    New York         
+Boston             16:9    New York         
+Boston             10:4    New York         
+New York            7:5    Boston           
+Boston              5:3    New York         
+Boston             12:4    New York         
+Boston             12:10   New York         
+New York           13:9    Boston           
+Boston              5:4    New York         
+New York           12:2    Boston           
+New York           10:6    Boston           
+Boston              7:6    New York         
+
+New York vs. Minnesota
+All time series is 6-9-0
+New York            8:4    Minnesota        
+Minnesota           2:1    New York         
+New York           15:3    Minnesota        
+New York            2:0    Minnesota        
+Minnesota          13:8    New York         
+Minnesota           7:6    New York         
+New York            7:6    Minnesota        
+New York           10:8    Minnesota        
+Minnesota           6:4    New York         
+Minnesota           8:1    New York         
+Minnesota           7:6    New York         
+Minnesota           8:7    New York         
+Minnesota          12:1    New York         
+New York           11:3    Minnesota        
+Minnesota          11:8    New York         
+
+New York vs. Oakland
+All time series is 7-8-0
+New York            4:2    Oakland          
+New York           11:3    Oakland          
+Oakland             6:3    New York         
+Oakland             4:0    New York         
+Oakland            12:4    New York         
+Oakland             7:6    New York         
+New York            5:1    Oakland          
+Oakland             3:2    New York         
+Oakland             4:3    New York         
+New York            8:5    Oakland          
+Oakland             5:2    New York         
+Oakland            10:4    New York         
+New York            6:3    Oakland          
+New York            5:4    Oakland          
+New York           10:9    Oakland          
+
+New York vs. Texas
+All time series is 10-5-0
+Texas               3:1    New York         
+New York            6:5    Texas            
+New York            9:5    Texas            
+New York            5:3    Texas            
+New York            9:7    Texas            
+New York            4:3    Texas            
+Texas               5:4    New York         
+Texas               8:6    New York         
+New York           10:8    Texas            
+New York            6:1    Texas            
+Texas               3:1    New York         
+Texas               8:6    New York         
+New York            6:1    Texas            
+New York            4:2    Texas            
+New York            9:7    Texas            
+
+New York vs. Los Angeles
+All time series is 5-10-0
+Los Angeles         7:3    New York         
+Los Angeles         9:4    New York         
+New York            5:4    Los Angeles      
+Los Angeles         7:3    New York         
+Los Angeles         9:6    New York         
+Los Angeles         7:4    New York         
+New York            6:5    Los Angeles      
+New York            7:0    Los Angeles      
+Los Angeles        10:9    New York         
+Los Angeles         7:3    New York         
+New York            5:4    Los Angeles      
+Los Angeles        14:12   New York         
+Los Angeles        10:9    New York         
+New York            5:4    Los Angeles      
+Los Angeles         7:6    New York         
+
+New York vs. Chicago
+All time series is 8-7-0
+Chicago             5:3    New York         
+Chicago             7:5    New York         
+New York            9:8    Chicago          
+Chicago             5:2    New York         
+New York           13:4    Chicago          
+Chicago             8:7    New York         
+New York            6:5    Chicago          
+New York            5:2    Chicago          
+New York           10:5    Chicago          
+New York           13:4    Chicago          
+Chicago             8:7    New York         
+Chicago             9:3    New York         
+New York            6:3    Chicago          
+Chicago            14:13   New York         
+New York            9:7    Chicago          
+
+New York vs. Toronto
+All time series is 9-6-0
+Toronto             9:6    New York         
+New York            3:2    Toronto          
+Toronto             7:1    New York         
+New York           11:1    Toronto          
+New York            3:0    Toronto          
+New York            6:2    Toronto          
+New York           11:5    Toronto          
+New York            6:3    Toronto          
+Toronto            10:9    New York         
+Toronto            11:4    New York         
+New York            7:3    Toronto          
+Toronto            10:7    New York         
+Toronto             8:2    New York         
+New York            3:2    Toronto          
+New York            7:6    Toronto          
+
+New York vs. San Francisco
+All time series is 14-1-0
+New York            3:2    San Francisco    
+New York            3:1    San Francisco    
+New York           10:9    San Francisco    
+New York            5:2    San Francisco    
+San Francisco       5:1    New York         
+New York            7:6    San Francisco    
+New York            5:4    San Francisco    
+New York            7:3    San Francisco    
+New York            6:5    San Francisco    
+New York           11:6    San Francisco    
+New York            5:4    San Francisco    
+New York            4:3    San Francisco    
+New York            8:7    San Francisco    
+New York           13:10   San Francisco    
+New York            8:5    San Francisco    
+
+New York vs. St. Louis
+All time series is 11-4-0
+New York            5:4    St. Louis        
+New York           11:8    St. Louis        
+St. Louis           3:2    New York         
+St. Louis           8:4    New York         
+New York            7:4    St. Louis        
+New York           10:9    St. Louis        
+New York            7:2    St. Louis        
+New York            4:3    St. Louis        
+New York           13:6    St. Louis        
+New York            7:2    St. Louis        
+St. Louis           3:0    New York         
+New York           14:5    St. Louis        
+St. Louis           6:1    New York         
+New York            6:3    St. Louis        
+New York           14:2    St. Louis        
+
+***Oakland         ***
+
+Oakland vs. Atlanta
+All time series is 7-8-0
+Oakland             9:7    Atlanta          
+Atlanta             5:3    Oakland          
+Oakland            12:4    Atlanta          
+Oakland             6:3    Atlanta          
+Atlanta             3:1    Oakland          
+Oakland            10:5    Atlanta          
+Atlanta             9:5    Oakland          
+Oakland             7:5    Atlanta          
+Atlanta             5:4    Oakland          
+Atlanta             7:3    Oakland          
+Atlanta             5:4    Oakland          
+Atlanta             9:6    Oakland          
+Atlanta            10:0    Oakland          
+Oakland            10:7    Atlanta          
+Oakland            17:16   Atlanta          
+
+Oakland vs. Detroit
+All time series is 8-6-1
+Detroit            10:10   Oakland          *
+Oakland             6:2    Detroit          
+Oakland             6:5    Detroit          
+Oakland            10:3    Detroit          
+Oakland            12:10   Detroit          
+Detroit             7:6    Oakland          
+Oakland             7:6    Detroit          
+Oakland             3:2    Detroit          
+Detroit             7:3    Oakland          
+Detroit             7:5    Oakland          
+Detroit             7:5    Oakland          
+Detroit             9:7    Oakland          
+Detroit             4:3    Oakland          
+Oakland             9:8    Detroit          
+Oakland             7:6    Detroit          
+
+Oakland vs. Boston
+All time series is 8-7-0
+Boston              9:4    Oakland          
+Oakland            14:4    Boston           
+Oakland            16:6    Boston           
+Boston              9:5    Oakland          
+Oakland            13:8    Boston           
+Boston              7:3    Oakland          
+Oakland             7:6    Boston           
+Oakland             6:3    Boston           
+Boston             11:1    Oakland          
+Boston             10:3    Oakland          
+Oakland             8:7    Boston           
+Oakland            12:8    Boston           
+Boston              8:7    Oakland          
+Boston             16:10   Oakland          
+Oakland             7:3    Boston           
+
+Oakland vs. Minnesota
+All time series is 6-9-0
+Oakland            10:7    Minnesota        
+Minnesota           5:0    Oakland          
+Minnesota           9:8    Oakland          
+Minnesota           8:3    Oakland          
+Oakland            10:7    Minnesota        
+Oakland             8:4    Minnesota        
+Minnesota          10:9    Oakland          
+Oakland             7:5    Minnesota        
+Minnesota          10:4    Oakland          
+Minnesota           6:3    Oakland          
+Oakland             8:5    Minnesota        
+Minnesota           8:5    Oakland          
+Minnesota           6:2    Oakland          
+Oakland             6:5    Minnesota        
+Minnesota           8:7    Oakland          
+
+Oakland vs. New York
+All time series is 8-7-0
+New York            4:2    Oakland          
+New York           11:3    Oakland          
+Oakland             6:3    New York         
+Oakland             4:0    New York         
+Oakland            12:4    New York         
+Oakland             7:6    New York         
+New York            5:1    Oakland          
+Oakland             3:2    New York         
+Oakland             4:3    New York         
+New York            8:5    Oakland          
+Oakland             5:2    New York         
+Oakland            10:4    New York         
+New York            6:3    Oakland          
+New York            5:4    Oakland          
+New York           10:9    Oakland          
+
+Oakland vs. Texas
+All time series is 9-5-1
+Oakland             8:7    Texas            
+Texas               8:4    Oakland          
+Texas              16:9    Oakland          
+Oakland             7:4    Texas            
+Oakland             6:4    Texas            
+Oakland             7:4    Texas            
+Texas               7:7    Oakland          *
+Oakland            11:5    Texas            
+Texas              12:1    Oakland          
+Oakland             6:5    Texas            
+Oakland             6:0    Texas            
+Texas               7:4    Oakland          
+Texas               2:1    Oakland          
+Oakland             8:6    Texas            
+Oakland            11:4    Texas            
+
+Oakland vs. Los Angeles
+All time series is 8-7-0
+Los Angeles         2:1    Oakland          
+Oakland            13:11   Los Angeles      
+Oakland             6:1    Los Angeles      
+Los Angeles         1:0    Oakland          
+Los Angeles         5:2    Oakland          
+Oakland             5:2    Los Angeles      
+Los Angeles         8:6    Oakland          
+Oakland             9:1    Los Angeles      
+Oakland            10:5    Los Angeles      
+Los Angeles         5:0    Oakland          
+Oakland             7:5    Los Angeles      
+Oakland            11:3    Los Angeles      
+Los Angeles         6:2    Oakland          
+Oakland            10:5    Los Angeles      
+Los Angeles         9:7    Oakland          
+
+Oakland vs. Chicago
+All time series is 8-7-0
+Oakland            11:7    Chicago          
+Oakland             8:6    Chicago          
+Chicago             8:6    Oakland          
+Chicago             8:4    Oakland          
+Oakland             5:4    Chicago          
+Chicago             7:4    Oakland          
+Oakland            13:4    Chicago          
+Oakland            10:4    Chicago          
+Oakland            18:15   Chicago          
+Chicago             7:6    Oakland          
+Oakland             7:4    Chicago          
+Chicago             7:5    Oakland          
+Chicago            10:9    Oakland          
+Oakland            12:10   Chicago          
+Chicago            17:12   Oakland          
+
+Oakland vs. Toronto
+All time series is 8-7-0
+Oakland            12:2    Toronto          
+Toronto             5:4    Oakland          
+Toronto            11:9    Oakland          
+Oakland             8:4    Toronto          
+Oakland             7:4    Toronto          
+Toronto             5:4    Oakland          
+Toronto             6:4    Oakland          
+Oakland             7:5    Toronto          
+Oakland            11:1    Toronto          
+Toronto             6:4    Oakland          
+Oakland             9:3    Toronto          
+Oakland             7:4    Toronto          
+Oakland             6:5    Toronto          
+Toronto             7:6    Oakland          
+Toronto             6:4    Oakland          
+
+Oakland vs. San Francisco
+All time series is 8-7-0
+Oakland             6:4    San Francisco    
+San Francisco       8:4    Oakland          
+Oakland             5:3    San Francisco    
+Oakland             7:5    San Francisco    
+San Francisco      14:7    Oakland          
+Oakland            11:3    San Francisco    
+San Francisco       5:3    Oakland          
+Oakland             6:0    San Francisco    
+Oakland             3:2    San Francisco    
+San Francisco       8:6    Oakland          
+Oakland            11:5    San Francisco    
+San Francisco       7:6    Oakland          
+San Francisco      11:10   Oakland          
+San Francisco       8:7    Oakland          
+Oakland             9:6    San Francisco    
+
+Oakland vs. St. Louis
+All time series is 9-6-0
+Oakland             7:5    St. Louis        
+Oakland             5:1    St. Louis        
+Oakland            10:0    St. Louis        
+St. Louis           8:6    Oakland          
+Oakland            14:4    St. Louis        
+St. Louis           9:8    Oakland          
+St. Louis          10:9    Oakland          
+St. Louis           6:4    Oakland          
+Oakland             5:2    St. Louis        
+Oakland            12:0    St. Louis        
+Oakland             5:0    St. Louis        
+Oakland            13:11   St. Louis        
+Oakland             3:2    St. Louis        
+St. Louis           9:7    Oakland          
+St. Louis          14:6    Oakland          
+
+***Texas           ***
+
+Texas vs. Atlanta
+All time series is 6-9-0
+Texas               8:6    Atlanta          
+Texas               9:4    Atlanta          
+Texas               6:4    Atlanta          
+Atlanta             6:5    Texas            
+Atlanta            10:7    Texas            
+Atlanta             8:6    Texas            
+Texas              11:1    Atlanta          
+Atlanta             7:3    Texas            
+Atlanta             9:3    Texas            
+Atlanta             7:5    Texas            
+Atlanta             7:6    Texas            
+Texas               5:1    Atlanta          
+Texas               7:5    Atlanta          
+Atlanta            17:9    Texas            
+Atlanta            11:0    Texas            
+
+Texas vs. Detroit
+All time series is 8-7-0
+Texas               8:6    Detroit          
+Detroit             6:5    Texas            
+Detroit             6:4    Texas            
+Detroit             9:8    Texas            
+Texas              12:10   Detroit          
+Detroit             5:4    Texas            
+Texas              10:3    Detroit          
+Texas               7:5    Detroit          
+Detroit             4:1    Texas            
+Texas               9:8    Detroit          
+Detroit             7:6    Texas            
+Texas              11:9    Detroit          
+Texas               3:1    Detroit          
+Texas               6:4    Detroit          
+Detroit             7:3    Texas            
+
+Texas vs. Boston
+All time series is 7-8-0
+Boston              6:3    Texas            
+Texas               8:2    Boston           
+Boston             11:9    Texas            
+Texas               7:4    Boston           
+Texas               5:4    Boston           
+Texas              10:4    Boston           
+Texas              12:10   Boston           
+Boston              8:6    Texas            
+Texas               5:3    Boston           
+Texas               9:4    Boston           
+Boston             17:7    Texas            
+Boston              8:5    Texas            
+Boston              5:4    Texas            
+Boston             11:7    Texas            
+Boston              2:1    Texas            
+
+Texas vs. Minnesota
+All time series is 7-7-1
+Minnesota           5:4    Texas            
+Texas               5:2    Minnesota        
+Minnesota          10:6    Texas            
+Texas               6:4    Minnesota        
+Minnesota           7:6    Texas            
+Minnesota           7:6    Texas            
+Texas               7:1    Minnesota        
+Texas               4:2    Minnesota        
+Texas              11:8    Minnesota        
+Texas              10:8    Minnesota        
+Minnesota           4:1    Texas            
+Minnesota           7:6    Texas            
+Minnesota          12:2    Texas            
+Minnesota          12:12   Texas            *
+Texas               5:3    Minnesota        
+
+Texas vs. New York
+All time series is 5-10-0
+Texas               3:1    New York         
+New York            6:5    Texas            
+New York            9:5    Texas            
+New York            5:3    Texas            
+New York            9:7    Texas            
+New York            4:3    Texas            
+Texas               5:4    New York         
+Texas               8:6    New York         
+New York           10:8    Texas            
+New York            6:1    Texas            
+Texas               3:1    New York         
+Texas               8:6    New York         
+New York            6:1    Texas            
+New York            4:2    Texas            
+New York            9:7    Texas            
+
+Texas vs. Oakland
+All time series is 5-9-1
+Oakland             8:7    Texas            
+Texas               8:4    Oakland          
+Texas              16:9    Oakland          
+Oakland             7:4    Texas            
+Oakland             6:4    Texas            
+Oakland             7:4    Texas            
+Texas               7:7    Oakland          *
+Oakland            11:5    Texas            
+Texas              12:1    Oakland          
+Oakland             6:5    Texas            
+Oakland             6:0    Texas            
+Texas               7:4    Oakland          
+Texas               2:1    Oakland          
+Oakland             8:6    Texas            
+Oakland            11:4    Texas            
+
+Texas vs. Los Angeles
+All time series is 11-4-0
+Texas              10:5    Los Angeles      
+Texas               6:5    Los Angeles      
+Texas               6:2    Los Angeles      
+Texas               4:3    Los Angeles      
+Texas               1:0    Los Angeles      
+Texas               9:2    Los Angeles      
+Texas               8:3    Los Angeles      
+Los Angeles         9:6    Texas            
+Los Angeles        14:6    Texas            
+Los Angeles         5:3    Texas            
+Texas              10:8    Los Angeles      
+Texas               5:2    Los Angeles      
+Los Angeles         7:6    Texas            
+Texas               7:5    Los Angeles      
+Texas               6:2    Los Angeles      
+
+Texas vs. Chicago
+All time series is 8-7-0
+Chicago             8:5    Texas            
+Chicago             9:3    Texas            
+Texas              11:1    Chicago          
+Texas               8:1    Chicago          
+Texas              12:11   Chicago          
+Chicago            10:8    Texas            
+Texas               7:6    Chicago          
+Texas               7:3    Chicago          
+Chicago             5:1    Texas            
+Texas               8:6    Chicago          
+Chicago             8:6    Texas            
+Chicago             8:7    Texas            
+Texas               5:4    Chicago          
+Chicago             8:7    Texas            
+Texas              12:8    Chicago          
+
+Texas vs. Toronto
+All time series is 7-8-0
+Toronto            10:6    Texas            
+Toronto             7:2    Texas            
+Texas               7:4    Toronto          
+Toronto             4:0    Texas            
+Texas              11:10   Toronto          
+Texas               9:8    Toronto          
+Texas               5:3    Toronto          
+Toronto             6:5    Texas            
+Toronto             9:7    Texas            
+Texas               9:7    Toronto          
+Toronto            12:6    Texas            
+Toronto             8:7    Texas            
+Texas              10:0    Toronto          
+Texas              18:8    Toronto          
+Toronto            13:4    Texas            
+
+Texas vs. San Francisco
+All time series is 10-5-0
+Texas               9:2    San Francisco    
+San Francisco      14:13   Texas            
+Texas               8:6    San Francisco    
+Texas               4:3    San Francisco    
+San Francisco       4:3    Texas            
+Texas               8:4    San Francisco    
+Texas               6:4    San Francisco    
+San Francisco       7:6    Texas            
+Texas               4:3    San Francisco    
+San Francisco      10:5    Texas            
+Texas               4:2    San Francisco    
+Texas              11:0    San Francisco    
+Texas               5:3    San Francisco    
+San Francisco       3:2    Texas            
+Texas               4:3    San Francisco    
+
+Texas vs. St. Louis
+All time series is 11-4-0
+Texas               6:5    St. Louis        
+Texas              11:0    St. Louis        
+Texas               8:7    St. Louis        
+Texas               9:7    St. Louis        
+St. Louis           2:1    Texas            
+Texas               9:2    St. Louis        
+Texas              10:0    St. Louis        
+St. Louis          15:6    Texas            
+Texas               8:6    St. Louis        
+St. Louis           8:7    Texas            
+Texas              12:5    St. Louis        
+Texas               6:5    St. Louis        
+Texas              12:7    St. Louis        
+St. Louis           9:8    Texas            
+Texas               9:3    St. Louis        
+
+***Los Angeles     ***
+
+Los Angeles vs. Atlanta
+All time series is 6-9-0
+Atlanta             3:2    Los Angeles      
+Los Angeles         8:5    Atlanta          
+Atlanta             8:3    Los Angeles      
+Los Angeles         3:2    Atlanta          
+Los Angeles         2:1    Atlanta          
+Atlanta             8:2    Los Angeles      
+Los Angeles         9:4    Atlanta          
+Atlanta             4:2    Los Angeles      
+Los Angeles         7:5    Atlanta          
+Atlanta             8:7    Los Angeles      
+Atlanta            15:5    Los Angeles      
+Los Angeles         7:5    Atlanta          
+Atlanta             5:4    Los Angeles      
+Atlanta             9:7    Los Angeles      
+Atlanta            10:7    Los Angeles      
+
+Los Angeles vs. Detroit
+All time series is 4-11-0
+Detroit             8:5    Los Angeles      
+Detroit            11:9    Los Angeles      
+Detroit             7:4    Los Angeles      
+Detroit             2:1    Los Angeles      
+Los Angeles         9:2    Detroit          
+Detroit            16:2    Los Angeles      
+Detroit            11:4    Los Angeles      
+Detroit             4:2    Los Angeles      
+Detroit            12:2    Los Angeles      
+Detroit             6:4    Los Angeles      
+Los Angeles         7:4    Detroit          
+Detroit             8:5    Los Angeles      
+Los Angeles         7:6    Detroit          
+Los Angeles         9:4    Detroit          
+Detroit             7:5    Los Angeles      
+
+Los Angeles vs. Boston
+All time series is 8-7-0
+Boston             10:4    Los Angeles      
+Los Angeles         8:5    Boston           
+Los Angeles        18:10   Boston           
+Los Angeles         7:3    Boston           
+Los Angeles         9:5    Boston           
+Boston             10:9    Los Angeles      
+Boston              8:6    Los Angeles      
+Boston              8:5    Los Angeles      
+Boston              8:5    Los Angeles      
+Los Angeles         9:5    Boston           
+Boston             11:1    Los Angeles      
+Boston             11:1    Los Angeles      
+Los Angeles        15:12   Boston           
+Los Angeles         8:1    Boston           
+Los Angeles         9:7    Boston           
+
+Los Angeles vs. Minnesota
+All time series is 7-8-0
+Minnesota           8:3    Los Angeles      
+Los Angeles         6:4    Minnesota        
+Minnesota           6:5    Los Angeles      
+Los Angeles        16:12   Minnesota        
+Los Angeles         2:1    Minnesota        
+Los Angeles         5:3    Minnesota        
+Minnesota          10:7    Los Angeles      
+Minnesota           9:8    Los Angeles      
+Minnesota          11:1    Los Angeles      
+Los Angeles         7:5    Minnesota        
+Minnesota           3:1    Los Angeles      
+Los Angeles         8:7    Minnesota        
+Minnesota           8:7    Los Angeles      
+Minnesota           7:6    Los Angeles      
+Los Angeles        18:2    Minnesota        
+
+Los Angeles vs. New York
+All time series is 10-5-0
+Los Angeles         7:3    New York         
+Los Angeles         9:4    New York         
+New York            5:4    Los Angeles      
+Los Angeles         7:3    New York         
+Los Angeles         9:6    New York         
+Los Angeles         7:4    New York         
+New York            6:5    Los Angeles      
+New York            7:0    Los Angeles      
+Los Angeles        10:9    New York         
+Los Angeles         7:3    New York         
+New York            5:4    Los Angeles      
+Los Angeles        14:12   New York         
+Los Angeles        10:9    New York         
+New York            5:4    Los Angeles      
+Los Angeles         7:6    New York         
+
+Los Angeles vs. Oakland
+All time series is 7-8-0
+Los Angeles         2:1    Oakland          
+Oakland            13:11   Los Angeles      
+Oakland             6:1    Los Angeles      
+Los Angeles         1:0    Oakland          
+Los Angeles         5:2    Oakland          
+Oakland             5:2    Los Angeles      
+Los Angeles         8:6    Oakland          
+Oakland             9:1    Los Angeles      
+Oakland            10:5    Los Angeles      
+Los Angeles         5:0    Oakland          
+Oakland             7:5    Los Angeles      
+Oakland            11:3    Los Angeles      
+Los Angeles         6:2    Oakland          
+Oakland            10:5    Los Angeles      
+Los Angeles         9:7    Oakland          
+
+Los Angeles vs. Texas
+All time series is 4-11-0
+Texas              10:5    Los Angeles      
+Texas               6:5    Los Angeles      
+Texas               6:2    Los Angeles      
+Texas               4:3    Los Angeles      
+Texas               1:0    Los Angeles      
+Texas               9:2    Los Angeles      
+Texas               8:3    Los Angeles      
+Los Angeles         9:6    Texas            
+Los Angeles        14:6    Texas            
+Los Angeles         5:3    Texas            
+Texas              10:8    Los Angeles      
+Texas               5:2    Los Angeles      
+Los Angeles         7:6    Texas            
+Texas               7:5    Los Angeles      
+Texas               6:2    Los Angeles      
+
+Los Angeles vs. Chicago
+All time series is 8-7-0
+Los Angeles         7:5    Chicago          
+Chicago            11:4    Los Angeles      
+Chicago             7:3    Los Angeles      
+Los Angeles         6:4    Chicago          
+Chicago            15:10   Los Angeles      
+Chicago             9:5    Los Angeles      
+Los Angeles         5:2    Chicago          
+Los Angeles         5:4    Chicago          
+Chicago            10:9    Los Angeles      
+Los Angeles         5:3    Chicago          
+Los Angeles         6:5    Chicago          
+Los Angeles         7:4    Chicago          
+Chicago             7:6    Los Angeles      
+Los Angeles         8:5    Chicago          
+Chicago             9:8    Los Angeles      
+
+Los Angeles vs. Toronto
+All time series is 5-10-0
+Los Angeles         8:5    Toronto          
+Toronto             4:3    Los Angeles      
+Toronto             4:3    Los Angeles      
+Toronto             7:2    Los Angeles      
+Los Angeles        11:7    Toronto          
+Los Angeles         5:3    Toronto          
+Toronto             5:4    Los Angeles      
+Los Angeles         3:2    Toronto          
+Toronto             8:7    Los Angeles      
+Toronto             8:3    Los Angeles      
+Toronto             5:3    Los Angeles      
+Toronto             8:5    Los Angeles      
+Los Angeles         8:2    Toronto          
+Toronto             5:4    Los Angeles      
+Toronto             4:3    Los Angeles      
+
+Los Angeles vs. San Francisco
+All time series is 10-5-0
+San Francisco       7:4    Los Angeles      
+San Francisco       8:4    Los Angeles      
+Los Angeles         5:3    San Francisco    
+San Francisco       3:1    Los Angeles      
+Los Angeles         7:4    San Francisco    
+Los Angeles        13:3    San Francisco    
+San Francisco       4:1    Los Angeles      
+San Francisco       8:7    Los Angeles      
+Los Angeles        10:0    San Francisco    
+Los Angeles         9:4    San Francisco    
+Los Angeles        11:9    San Francisco    
+Los Angeles         6:3    San Francisco    
+Los Angeles         5:4    San Francisco    
+Los Angeles        12:8    San Francisco    
+Los Angeles        11:1    San Francisco    
+
+Los Angeles vs. St. Louis
+All time series is 6-9-0
+St. Louis           9:7    Los Angeles      
+Los Angeles         7:4    St. Louis        
+St. Louis           9:7    Los Angeles      
+St. Louis           7:6    Los Angeles      
+St. Louis           4:1    Los Angeles      
+St. Louis           7:5    Los Angeles      
+Los Angeles         5:3    St. Louis        
+Los Angeles        10:8    St. Louis        
+St. Louis           8:4    Los Angeles      
+Los Angeles        15:5    St. Louis        
+St. Louis           3:1    Los Angeles      
+Los Angeles        12:9    St. Louis        
+Los Angeles         8:4    St. Louis        
+St. Louis           9:7    Los Angeles      
+St. Louis          11:0    Los Angeles      
+
+***Chicago         ***
+
+Chicago vs. Atlanta
+All time series is 3-12-0
+Atlanta            10:4    Chicago          
+Chicago             7:6    Atlanta          
+Chicago             8:7    Atlanta          
+Atlanta             7:6    Chicago          
+Atlanta             8:7    Chicago          
+Atlanta             6:4    Chicago          
+Atlanta             8:5    Chicago          
+Atlanta             5:1    Chicago          
+Atlanta             7:6    Chicago          
+Atlanta            11:8    Chicago          
+Atlanta            16:15   Chicago          
+Atlanta             8:3    Chicago          
+Chicago            14:12   Atlanta          
+Atlanta             7:4    Chicago          
+Atlanta             8:6    Chicago          
+
+Chicago vs. Detroit
+All time series is 5-10-0
+Chicago             9:8    Detroit          
+Detroit             7:6    Chicago          
+Detroit            12:2    Chicago          
+Detroit             6:3    Chicago          
+Detroit             8:4    Chicago          
+Chicago            13:10   Detroit          
+Detroit             7:5    Chicago          
+Chicago             9:5    Detroit          
+Chicago             6:5    Detroit          
+Detroit             5:3    Chicago          
+Chicago            12:9    Detroit          
+Detroit             7:6    Chicago          
+Detroit            11:1    Chicago          
+Detroit             9:5    Chicago          
+Detroit            13:6    Chicago          
+
+Chicago vs. Boston
+All time series is 3-12-0
+Boston              8:6    Chicago          
+Boston             20:19   Chicago          
+Boston              8:5    Chicago          
+Boston             12:5    Chicago          
+Boston              6:5    Chicago          
+Boston             15:10   Chicago          
+Chicago            24:10   Boston           
+Boston              6:5    Chicago          
+Boston              7:6    Chicago          
+Chicago             9:8    Boston           
+Boston              9:6    Chicago          
+Boston             11:1    Chicago          
+Boston              7:4    Chicago          
+Chicago            10:8    Boston           
+Boston              9:7    Chicago          
+
+Chicago vs. Minnesota
+All time series is 6-9-0
+Chicago             8:6    Minnesota        
+Chicago            11:10   Minnesota        
+Minnesota           6:3    Chicago          
+Chicago             6:5    Minnesota        
+Minnesota          15:8    Chicago          
+Minnesota           8:3    Chicago          
+Chicago            12:9    Minnesota        
+Chicago            10:7    Minnesota        
+Minnesota          12:1    Chicago          
+Minnesota           8:2    Chicago          
+Minnesota           6:5    Chicago          
+Minnesota           5:3    Chicago          
+Chicago             6:5    Minnesota        
+Minnesota           5:3    Chicago          
+Minnesota           9:2    Chicago          
+
+Chicago vs. New York
+All time series is 7-8-0
+Chicago             5:3    New York         
+Chicago             7:5    New York         
+New York            9:8    Chicago          
+Chicago             5:2    New York         
+New York           13:4    Chicago          
+Chicago             8:7    New York         
+New York            6:5    Chicago          
+New York            5:2    Chicago          
+New York           10:5    Chicago          
+New York           13:4    Chicago          
+Chicago             8:7    New York         
+Chicago             9:3    New York         
+New York            6:3    Chicago          
+Chicago            14:13   New York         
+New York            9:7    Chicago          
+
+Chicago vs. Oakland
+All time series is 7-8-0
+Oakland            11:7    Chicago          
+Oakland             8:6    Chicago          
+Chicago             8:6    Oakland          
+Chicago             8:4    Oakland          
+Oakland             5:4    Chicago          
+Chicago             7:4    Oakland          
+Oakland            13:4    Chicago          
+Oakland            10:4    Chicago          
+Oakland            18:15   Chicago          
+Chicago             7:6    Oakland          
+Oakland             7:4    Chicago          
+Chicago             7:5    Oakland          
+Chicago            10:9    Oakland          
+Oakland            12:10   Chicago          
+Chicago            17:12   Oakland          
+
+Chicago vs. Texas
+All time series is 7-8-0
+Chicago             8:5    Texas            
+Chicago             9:3    Texas            
+Texas              11:1    Chicago          
+Texas               8:1    Chicago          
+Texas              12:11   Chicago          
+Chicago            10:8    Texas            
+Texas               7:6    Chicago          
+Texas               7:3    Chicago          
+Chicago             5:1    Texas            
+Texas               8:6    Chicago          
+Chicago             8:6    Texas            
+Chicago             8:7    Texas            
+Texas               5:4    Chicago          
+Chicago             8:7    Texas            
+Texas              12:8    Chicago          
+
+Chicago vs. Los Angeles
+All time series is 7-8-0
+Los Angeles         7:5    Chicago          
+Chicago            11:4    Los Angeles      
+Chicago             7:3    Los Angeles      
+Los Angeles         6:4    Chicago          
+Chicago            15:10   Los Angeles      
+Chicago             9:5    Los Angeles      
+Los Angeles         5:2    Chicago          
+Los Angeles         5:4    Chicago          
+Chicago            10:9    Los Angeles      
+Los Angeles         5:3    Chicago          
+Los Angeles         6:5    Chicago          
+Los Angeles         7:4    Chicago          
+Chicago             7:6    Los Angeles      
+Los Angeles         8:5    Chicago          
+Chicago             9:8    Los Angeles      
+
+Chicago vs. Toronto
+All time series is 8-6-1
+Chicago             5:5    Toronto          *
+Chicago             5:0    Toronto          
+Toronto            10:0    Chicago          
+Toronto             9:6    Chicago          
+Chicago             7:6    Toronto          
+Toronto             6:5    Chicago          
+Toronto             6:5    Chicago          
+Chicago             6:5    Toronto          
+Chicago            11:3    Toronto          
+Chicago            12:1    Toronto          
+Chicago            12:5    Toronto          
+Chicago             7:6    Toronto          
+Chicago             9:5    Toronto          
+Toronto             8:6    Chicago          
+Toronto             7:5    Chicago          
+
+Chicago vs. San Francisco
+All time series is 9-6-0
+Chicago             9:3    San Francisco    
+Chicago             9:1    San Francisco    
+San Francisco       8:7    Chicago          
+Chicago             2:1    San Francisco    
+Chicago             9:7    San Francisco    
+Chicago             7:6    San Francisco    
+Chicago            15:7    San Francisco    
+Chicago             6:2    San Francisco    
+Chicago            10:6    San Francisco    
+Chicago             8:6    San Francisco    
+San Francisco       8:6    Chicago          
+San Francisco       7:4    Chicago          
+San Francisco       6:3    Chicago          
+San Francisco      11:2    Chicago          
+San Francisco      12:0    Chicago          
+
+Chicago vs. St. Louis
+All time series is 8-7-0
+Chicago            10:0    St. Louis        
+Chicago             7:6    St. Louis        
+St. Louis          14:10   Chicago          
+Chicago            10:5    St. Louis        
+St. Louis           4:3    Chicago          
+St. Louis           9:7    Chicago          
+St. Louis           8:7    Chicago          
+St. Louis           7:6    Chicago          
+Chicago             5:2    St. Louis        
+Chicago            13:0    St. Louis        
+St. Louis           5:2    Chicago          
+St. Louis          11:0    Chicago          
+Chicago            12:11   St. Louis        
+Chicago             6:5    St. Louis        
+Chicago            13:10   St. Louis        
+
+***Toronto         ***
+
+Toronto vs. Atlanta
+All time series is 4-10-1
+Toronto            12:9    Atlanta          
+Atlanta            10:4    Toronto          
+Atlanta             6:4    Toronto          
+Atlanta            12:0    Toronto          
+Atlanta             9:5    Toronto          
+Toronto             6:2    Atlanta          
+Atlanta             4:0    Toronto          
+Atlanta             8:6    Toronto          
+Atlanta            10:4    Toronto          
+Atlanta            10:0    Toronto          
+Toronto            11:11   Atlanta          *
+Toronto            11:9    Atlanta          
+Atlanta             6:0    Toronto          
+Toronto            10:5    Atlanta          
+Atlanta             5:2    Toronto          
+
+Toronto vs. Detroit
+All time series is 5-10-0
+Detroit             5:1    Toronto          
+Detroit             9:4    Toronto          
+Detroit             6:3    Toronto          
+Toronto            12:4    Detroit          
+Detroit             4:2    Toronto          
+Toronto             6:0    Detroit          
+Detroit             7:5    Toronto          
+Toronto             4:2    Detroit          
+Detroit             7:4    Toronto          
+Toronto            11:5    Detroit          
+Detroit            16:8    Toronto          
+Detroit             7:4    Toronto          
+Toronto            10:5    Detroit          
+Detroit             6:3    Toronto          
+Detroit             8:5    Toronto          
+
+Toronto vs. Boston
+All time series is 2-13-0
+Boston             12:3    Toronto          
+Toronto             8:6    Boston           
+Boston             11:2    Toronto          
+Boston             11:7    Toronto          
+Boston             13:1    Toronto          
+Boston             16:11   Toronto          
+Boston              6:2    Toronto          
+Boston              8:6    Toronto          
+Boston              9:5    Toronto          
+Boston              6:5    Toronto          
+Boston             11:8    Toronto          
+Boston             14:1    Toronto          
+Toronto             9:7    Boston           
+Boston             17:14   Toronto          
+Boston              7:6    Toronto          
+
+Toronto vs. Minnesota
+All time series is 3-11-1
+Minnesota           6:5    Toronto          
+Toronto             4:4    Minnesota        *
+Minnesota           6:3    Toronto          
+Minnesota           4:1    Toronto          
+Minnesota           7:2    Toronto          
+Toronto             5:0    Minnesota        
+Minnesota          10:8    Toronto          
+Minnesota           4:2    Toronto          
+Minnesota           7:5    Toronto          
+Minnesota           4:0    Toronto          
+Toronto             7:5    Minnesota        
+Minnesota           8:6    Toronto          
+Minnesota          12:1    Toronto          
+Toronto             7:4    Minnesota        
+Minnesota           7:6    Toronto          
+
+Toronto vs. New York
+All time series is 6-9-0
+Toronto             9:6    New York         
+New York            3:2    Toronto          
+Toronto             7:1    New York         
+New York           11:1    Toronto          
+New York            3:0    Toronto          
+New York            6:2    Toronto          
+New York           11:5    Toronto          
+New York            6:3    Toronto          
+Toronto            10:9    New York         
+Toronto            11:4    New York         
+New York            7:3    Toronto          
+Toronto            10:7    New York         
+Toronto             8:2    New York         
+New York            3:2    Toronto          
+New York            7:6    Toronto          
+
+Toronto vs. Oakland
+All time series is 7-8-0
+Oakland            12:2    Toronto          
+Toronto             5:4    Oakland          
+Toronto            11:9    Oakland          
+Oakland             8:4    Toronto          
+Oakland             7:4    Toronto          
+Toronto             5:4    Oakland          
+Toronto             6:4    Oakland          
+Oakland             7:5    Toronto          
+Oakland            11:1    Toronto          
+Toronto             6:4    Oakland          
+Oakland             9:3    Toronto          
+Oakland             7:4    Toronto          
+Oakland             6:5    Toronto          
+Toronto             7:6    Oakland          
+Toronto             6:4    Oakland          
+
+Toronto vs. Texas
+All time series is 8-7-0
+Toronto            10:6    Texas            
+Toronto             7:2    Texas            
+Texas               7:4    Toronto          
+Toronto             4:0    Texas            
+Texas              11:10   Toronto          
+Texas               9:8    Toronto          
+Texas               5:3    Toronto          
+Toronto             6:5    Texas            
+Toronto             9:7    Texas            
+Texas               9:7    Toronto          
+Toronto            12:6    Texas            
+Toronto             8:7    Texas            
+Texas              10:0    Toronto          
+Texas              18:8    Toronto          
+Toronto            13:4    Texas            
+
+Toronto vs. Los Angeles
+All time series is 10-5-0
+Los Angeles         8:5    Toronto          
+Toronto             4:3    Los Angeles      
+Toronto             4:3    Los Angeles      
+Toronto             7:2    Los Angeles      
+Los Angeles        11:7    Toronto          
+Los Angeles         5:3    Toronto          
+Toronto             5:4    Los Angeles      
+Los Angeles         3:2    Toronto          
+Toronto             8:7    Los Angeles      
+Toronto             8:3    Los Angeles      
+Toronto             5:3    Los Angeles      
+Toronto             8:5    Los Angeles      
+Los Angeles         8:2    Toronto          
+Toronto             5:4    Los Angeles      
+Toronto             4:3    Los Angeles      
+
+Toronto vs. Chicago
+All time series is 6-8-1
+Chicago             5:5    Toronto          *
+Chicago             5:0    Toronto          
+Toronto            10:0    Chicago          
+Toronto             9:6    Chicago          
+Chicago             7:6    Toronto          
+Toronto             6:5    Chicago          
+Toronto             6:5    Chicago          
+Chicago             6:5    Toronto          
+Chicago            11:3    Toronto          
+Chicago            12:1    Toronto          
+Chicago            12:5    Toronto          
+Chicago             7:6    Toronto          
+Chicago             9:5    Toronto          
+Toronto             8:6    Chicago          
+Toronto             7:5    Chicago          
+
+Toronto vs. San Francisco
+All time series is 5-10-0
+Toronto            11:6    San Francisco    
+San Francisco       6:5    Toronto          
+Toronto             7:4    San Francisco    
+Toronto             5:4    San Francisco    
+Toronto            12:3    San Francisco    
+San Francisco       6:5    Toronto          
+San Francisco       6:3    Toronto          
+San Francisco      10:2    Toronto          
+Toronto            10:6    San Francisco    
+San Francisco      10:8    Toronto          
+San Francisco      12:1    Toronto          
+San Francisco       8:3    Toronto          
+San Francisco      10:7    Toronto          
+San Francisco       9:6    Toronto          
+San Francisco      10:7    Toronto          
+
+Toronto vs. St. Louis
+All time series is 11-4-0
+Toronto             7:5    St. Louis        
+St. Louis           7:6    Toronto          
+Toronto             9:5    St. Louis        
+Toronto             7:6    St. Louis        
+Toronto             6:5    St. Louis        
+Toronto             7:6    St. Louis        
+Toronto             6:3    St. Louis        
+Toronto             6:2    St. Louis        
+St. Louis          10:2    Toronto          
+St. Louis           9:5    Toronto          
+Toronto             4:3    St. Louis        
+Toronto             9:7    St. Louis        
+Toronto            11:9    St. Louis        
+St. Louis          15:12   Toronto          
+Toronto             7:3    St. Louis        
+
+***San Francisco   ***
+
+San Francisco vs. Atlanta
+All time series is 5-10-0
+San Francisco       8:7    Atlanta          
+Atlanta            16:2    San Francisco    
+Atlanta             7:0    San Francisco    
+Atlanta            10:8    San Francisco    
+Atlanta            10:4    San Francisco    
+Atlanta             8:2    San Francisco    
+Atlanta             7:4    San Francisco    
+San Francisco      10:9    Atlanta          
+Atlanta            16:13   San Francisco    
+Atlanta             3:2    San Francisco    
+San Francisco       6:5    Atlanta          
+San Francisco      11:1    Atlanta          
+Atlanta            11:7    San Francisco    
+San Francisco       8:2    Atlanta          
+Atlanta             4:1    San Francisco    
+
+San Francisco vs. Detroit
+All time series is 5-10-0
+Detroit             4:3    San Francisco    
+San Francisco       8:7    Detroit          
+San Francisco       7:6    Detroit          
+Detroit            10:9    San Francisco    
+Detroit             6:2    San Francisco    
+Detroit             8:2    San Francisco    
+Detroit             5:3    San Francisco    
+Detroit            13:5    San Francisco    
+San Francisco       5:3    Detroit          
+Detroit             3:2    San Francisco    
+San Francisco      10:8    Detroit          
+Detroit            15:4    San Francisco    
+Detroit            13:9    San Francisco    
+San Francisco      10:7    Detroit          
+Detroit             6:2    San Francisco    
+
+San Francisco vs. Boston
+All time series is 8-7-0
+Boston              7:5    San Francisco    
+Boston             11:0    San Francisco    
+Boston              7:3    San Francisco    
+San Francisco       8:4    Boston           
+Boston             11:10   San Francisco    
+San Francisco      12:6    Boston           
+San Francisco       9:5    Boston           
+San Francisco      14:4    Boston           
+Boston             17:3    San Francisco    
+Boston              6:5    San Francisco    
+San Francisco       7:6    Boston           
+Boston             10:4    San Francisco    
+San Francisco       4:2    Boston           
+San Francisco       9:8    Boston           
+San Francisco      12:8    Boston           
+
+San Francisco vs. Minnesota
+All time series is 5-9-1
+San Francisco       6:6    Minnesota        *
+Minnesota           9:1    San Francisco    
+Minnesota           4:1    San Francisco    
+San Francisco      11:3    Minnesota        
+Minnesota          10:0    San Francisco    
+Minnesota          10:8    San Francisco    
+San Francisco       8:7    Minnesota        
+Minnesota           7:3    San Francisco    
+San Francisco       4:2    Minnesota        
+Minnesota           8:7    San Francisco    
+San Francisco       7:6    Minnesota        
+Minnesota           6:5    San Francisco    
+San Francisco      11:9    Minnesota        
+Minnesota           7:1    San Francisco    
+Minnesota           7:0    San Francisco    
+
+San Francisco vs. New York
+All time series is 1-14-0
+New York            3:2    San Francisco    
+New York            3:1    San Francisco    
+New York           10:9    San Francisco    
+New York            5:2    San Francisco    
+San Francisco       5:1    New York         
+New York            7:6    San Francisco    
+New York            5:4    San Francisco    
+New York            7:3    San Francisco    
+New York            6:5    San Francisco    
+New York           11:6    San Francisco    
+New York            5:4    San Francisco    
+New York            4:3    San Francisco    
+New York            8:7    San Francisco    
+New York           13:10   San Francisco    
+New York            8:5    San Francisco    
+
+San Francisco vs. Oakland
+All time series is 7-8-0
+Oakland             6:4    San Francisco    
+San Francisco       8:4    Oakland          
+Oakland             5:3    San Francisco    
+Oakland             7:5    San Francisco    
+San Francisco      14:7    Oakland          
+Oakland            11:3    San Francisco    
+San Francisco       5:3    Oakland          
+Oakland             6:0    San Francisco    
+Oakland             3:2    San Francisco    
+San Francisco       8:6    Oakland          
+Oakland            11:5    San Francisco    
+San Francisco       7:6    Oakland          
+San Francisco      11:10   Oakland          
+San Francisco       8:7    Oakland          
+Oakland             9:6    San Francisco    
+
+San Francisco vs. Texas
+All time series is 5-10-0
+Texas               9:2    San Francisco    
+San Francisco      14:13   Texas            
+Texas               8:6    San Francisco    
+Texas               4:3    San Francisco    
+San Francisco       4:3    Texas            
+Texas               8:4    San Francisco    
+Texas               6:4    San Francisco    
+San Francisco       7:6    Texas            
+Texas               4:3    San Francisco    
+San Francisco      10:5    Texas            
+Texas               4:2    San Francisco    
+Texas              11:0    San Francisco    
+Texas               5:3    San Francisco    
+San Francisco       3:2    Texas            
+Texas               4:3    San Francisco    
+
+San Francisco vs. Los Angeles
+All time series is 5-10-0
+San Francisco       7:4    Los Angeles      
+San Francisco       8:4    Los Angeles      
+Los Angeles         5:3    San Francisco    
+San Francisco       3:1    Los Angeles      
+Los Angeles         7:4    San Francisco    
+Los Angeles        13:3    San Francisco    
+San Francisco       4:1    Los Angeles      
+San Francisco       8:7    Los Angeles      
+Los Angeles        10:0    San Francisco    
+Los Angeles         9:4    San Francisco    
+Los Angeles        11:9    San Francisco    
+Los Angeles         6:3    San Francisco    
+Los Angeles         5:4    San Francisco    
+Los Angeles        12:8    San Francisco    
+Los Angeles        11:1    San Francisco    
+
+San Francisco vs. Chicago
+All time series is 6-9-0
+Chicago             9:3    San Francisco    
+Chicago             9:1    San Francisco    
+San Francisco       8:7    Chicago          
+Chicago             2:1    San Francisco    
+Chicago             9:7    San Francisco    
+Chicago             7:6    San Francisco    
+Chicago            15:7    San Francisco    
+Chicago             6:2    San Francisco    
+Chicago            10:6    San Francisco    
+Chicago             8:6    San Francisco    
+San Francisco       8:6    Chicago          
+San Francisco       7:4    Chicago          
+San Francisco       6:3    Chicago          
+San Francisco      11:2    Chicago          
+San Francisco      12:0    Chicago          
+
+San Francisco vs. Toronto
+All time series is 10-5-0
+Toronto            11:6    San Francisco    
+San Francisco       6:5    Toronto          
+Toronto             7:4    San Francisco    
+Toronto             5:4    San Francisco    
+Toronto            12:3    San Francisco    
+San Francisco       6:5    Toronto          
+San Francisco       6:3    Toronto          
+San Francisco      10:2    Toronto          
+Toronto            10:6    San Francisco    
+San Francisco      10:8    Toronto          
+San Francisco      12:1    Toronto          
+San Francisco       8:3    Toronto          
+San Francisco      10:7    Toronto          
+San Francisco       9:6    Toronto          
+San Francisco      10:7    Toronto          
+
+San Francisco vs. St. Louis
+All time series is 8-7-0
+San Francisco       5:3    St. Louis        
+San Francisco       8:4    St. Louis        
+St. Louis          10:3    San Francisco    
+San Francisco      10:6    St. Louis        
+San Francisco       7:5    St. Louis        
+San Francisco       6:3    St. Louis        
+San Francisco      12:11   St. Louis        
+St. Louis           9:7    San Francisco    
+San Francisco       9:5    St. Louis        
+San Francisco       6:5    St. Louis        
+St. Louis          13:8    San Francisco    
+St. Louis          11:6    San Francisco    
+St. Louis          13:1    San Francisco    
+St. Louis           7:5    San Francisco    
+St. Louis          16:6    San Francisco    
+
+***St. Louis       ***
+
+St. Louis vs. Atlanta
+All time series is 2-12-1
+Atlanta            12:1    St. Louis        
+Atlanta             9:6    St. Louis        
+Atlanta             8:3    St. Louis        
+Atlanta             4:3    St. Louis        
+Atlanta             6:4    St. Louis        
+Atlanta             9:8    St. Louis        
+Atlanta            12:2    St. Louis        
+St. Louis           7:2    Atlanta          
+Atlanta             7:5    St. Louis        
+St. Louis           9:9    Atlanta          *
+Atlanta             9:8    St. Louis        
+Atlanta             5:4    St. Louis        
+Atlanta             8:6    St. Louis        
+St. Louis          13:3    Atlanta          
+Atlanta             7:6    St. Louis        
+
+St. Louis vs. Detroit
+All time series is 2-13-0
+Detroit            16:12   St. Louis        
+Detroit             5:1    St. Louis        
+Detroit            12:1    St. Louis        
+Detroit             9:7    St. Louis        
+Detroit             9:7    St. Louis        
+Detroit             2:1    St. Louis        
+Detroit            11:10   St. Louis        
+Detroit             8:7    St. Louis        
+Detroit             7:5    St. Louis        
+Detroit            10:0    St. Louis        
+Detroit             7:5    St. Louis        
+St. Louis           5:4    Detroit          
+St. Louis          13:12   Detroit          
+Detroit            12:11   St. Louis        
+Detroit            10:3    St. Louis        
+
+St. Louis vs. Boston
+All time series is 4-11-0
+Boston             12:0    St. Louis        
+Boston             15:7    St. Louis        
+Boston             13:5    St. Louis        
+Boston              8:6    St. Louis        
+Boston              7:5    St. Louis        
+Boston              7:6    St. Louis        
+St. Louis          13:8    Boston           
+Boston             13:4    St. Louis        
+Boston             14:4    St. Louis        
+Boston             13:3    St. Louis        
+Boston             14:9    St. Louis        
+St. Louis           9:6    Boston           
+Boston             15:6    St. Louis        
+St. Louis          12:1    Boston           
+St. Louis           8:7    Boston           
+
+St. Louis vs. Minnesota
+All time series is 5-9-1
+Minnesota           6:5    St. Louis        
+Minnesota           6:6    St. Louis        *
+Minnesota           7:6    St. Louis        
+St. Louis           9:1    Minnesota        
+St. Louis          10:7    Minnesota        
+Minnesota          10:9    St. Louis        
+Minnesota          13:12   St. Louis        
+Minnesota          11:6    St. Louis        
+Minnesota           6:1    St. Louis        
+Minnesota           7:6    St. Louis        
+St. Louis           9:8    Minnesota        
+Minnesota           7:2    St. Louis        
+Minnesota          15:3    St. Louis        
+St. Louis           9:3    Minnesota        
+St. Louis           7:5    Minnesota        
+
+St. Louis vs. New York
+All time series is 4-11-0
+New York            5:4    St. Louis        
+New York           11:8    St. Louis        
+St. Louis           3:2    New York         
+St. Louis           8:4    New York         
+New York            7:4    St. Louis        
+New York           10:9    St. Louis        
+New York            7:2    St. Louis        
+New York            4:3    St. Louis        
+New York           13:6    St. Louis        
+New York            7:2    St. Louis        
+St. Louis           3:0    New York         
+New York           14:5    St. Louis        
+St. Louis           6:1    New York         
+New York            6:3    St. Louis        
+New York           14:2    St. Louis        
+
+St. Louis vs. Oakland
+All time series is 6-9-0
+Oakland             7:5    St. Louis        
+Oakland             5:1    St. Louis        
+Oakland            10:0    St. Louis        
+St. Louis           8:6    Oakland          
+Oakland            14:4    St. Louis        
+St. Louis           9:8    Oakland          
+St. Louis          10:9    Oakland          
+St. Louis           6:4    Oakland          
+Oakland             5:2    St. Louis        
+Oakland            12:0    St. Louis        
+Oakland             5:0    St. Louis        
+Oakland            13:11   St. Louis        
+Oakland             3:2    St. Louis        
+St. Louis           9:7    Oakland          
+St. Louis          14:6    Oakland          
+
+St. Louis vs. Texas
+All time series is 4-11-0
+Texas               6:5    St. Louis        
+Texas              11:0    St. Louis        
+Texas               8:7    St. Louis        
+Texas               9:7    St. Louis        
+St. Louis           2:1    Texas            
+Texas               9:2    St. Louis        
+Texas              10:0    St. Louis        
+St. Louis          15:6    Texas            
+Texas               8:6    St. Louis        
+St. Louis           8:7    Texas            
+Texas              12:5    St. Louis        
+Texas               6:5    St. Louis        
+Texas              12:7    St. Louis        
+St. Louis           9:8    Texas            
+Texas               9:3    St. Louis        
+
+St. Louis vs. Los Angeles
+All time series is 9-6-0
+St. Louis           9:7    Los Angeles      
+Los Angeles         7:4    St. Louis        
+St. Louis           9:7    Los Angeles      
+St. Louis           7:6    Los Angeles      
+St. Louis           4:1    Los Angeles      
+St. Louis           7:5    Los Angeles      
+Los Angeles         5:3    St. Louis        
+Los Angeles        10:8    St. Louis        
+St. Louis           8:4    Los Angeles      
+Los Angeles        15:5    St. Louis        
+St. Louis           3:1    Los Angeles      
+Los Angeles        12:9    St. Louis        
+Los Angeles         8:4    St. Louis        
+St. Louis           9:7    Los Angeles      
+St. Louis          11:0    Los Angeles      
+
+St. Louis vs. Chicago
+All time series is 7-8-0
+Chicago            10:0    St. Louis        
+Chicago             7:6    St. Louis        
+St. Louis          14:10   Chicago          
+Chicago            10:5    St. Louis        
+St. Louis           4:3    Chicago          
+St. Louis           9:7    Chicago          
+St. Louis           8:7    Chicago          
+St. Louis           7:6    Chicago          
+Chicago             5:2    St. Louis        
+Chicago            13:0    St. Louis        
+St. Louis           5:2    Chicago          
+St. Louis          11:0    Chicago          
+Chicago            12:11   St. Louis        
+Chicago             6:5    St. Louis        
+Chicago            13:10   St. Louis        
+
+St. Louis vs. Toronto
+All time series is 4-11-0
+Toronto             7:5    St. Louis        
+St. Louis           7:6    Toronto          
+Toronto             9:5    St. Louis        
+Toronto             7:6    St. Louis        
+Toronto             6:5    St. Louis        
+Toronto             7:6    St. Louis        
+Toronto             6:3    St. Louis        
+Toronto             6:2    St. Louis        
+St. Louis          10:2    Toronto          
+St. Louis           9:5    Toronto          
+Toronto             4:3    St. Louis        
+Toronto             9:7    St. Louis        
+Toronto            11:9    St. Louis        
+St. Louis          15:12   Toronto          
+Toronto             7:3    St. Louis        
+
+St. Louis vs. San Francisco
+All time series is 7-8-0
+San Francisco       5:3    St. Louis        
+San Francisco       8:4    St. Louis        
+St. Louis          10:3    San Francisco    
+San Francisco      10:6    St. Louis        
+San Francisco       7:5    St. Louis        
+San Francisco       6:3    St. Louis        
+San Francisco      12:11   St. Louis        
+St. Louis           9:7    San Francisco    
+San Francisco       9:5    St. Louis        
+San Francisco       6:5    St. Louis        
+St. Louis          13:8    San Francisco    
+St. Louis          11:6    San Francisco    
+St. Louis          13:1    San Francisco    
+St. Louis           7:5    San Francisco    
+St. Louis          16:6    San Francisco    
